@@ -112,4 +112,5 @@ int CalcSum(int c, int d) // Value returning function to return value for  sum o
 void Printroll(int e, int f, int g) // Used void function to print rolls and their sum
 {
 	cout << "Your rolled " << e << " + " << f << " = " << g << endl; 
+
 }
