@@ -63,4 +63,5 @@ bool isPalindrome(string items[], int first, int last) // Dec
     }
     return true; // Return true for palindrome if while loop does not return false
 
+
 }
