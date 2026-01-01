@@ -1,4 +1,4 @@
-#C++ Codes
+# C++ Codes
 This is repository contains my the codes done during my introduction to C++ class where i learnt the basics, fundamentals and the main idea of coding which was to solve the idea one at a time while focusing on getting the main goal of the project
 
 This repository Contains 4 files which are: Assignnet 1 - This code was to prompts the user for an amount of consonants and vowels, generates them randomly, scrambles them, and presents the resulting string to the user
